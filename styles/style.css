@@ -181,7 +181,7 @@ header {
     background-position: center;
 }
 
-.lot-item-first::before{
+.lot-item-first::before {
     content: '';
     position: absolute;
     width: 334px;
@@ -201,7 +201,7 @@ header {
     background-position: center;
 }
 
-.lot-item-second::before{
+.lot-item-second::before {
     content: '';
     position: absolute;
     width: 334px;
@@ -220,7 +220,7 @@ header {
     background-position: center;
 }
 
-.lot-item-third::before{
+.lot-item-third::before {
     content: '';
     position: absolute;
     width: 334px;
