@@ -15,15 +15,15 @@ header {
 }
 
 .header-menu {
-    display: flex; 
-    gap: 0px; 
-    align-items: center; 
-    font-family: 'Raleway'; 
-    font-size: 18px; 
-    font-weight: 400; 
-    margin-top: 133px; 
+    display: flex;
+    gap: 0;
+    align-items: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 133px;
     margin-bottom: 139px;
-    margin-left: 24px; 
+    margin-left: 24px;
     word-spacing: 0px;
 }
 
@@ -156,26 +156,26 @@ header {
 }
 
 .cover-description-text {
-    width: auto; 
+    width: auto;
     font-family: 'Raleway', sans-serif;
-    font-weight: 400; 
-    font-size: 22px; 
-    word-spacing: 18.9px; 
-    text-align: justify; 
-    padding-bottom: 10px; 
+    font-weight: 400;
+    font-size: 22px;
+    word-spacing: 18.9px;
+    text-align: justify;
+    padding-bottom: 10px;
     padding-right: 7px;
 }
 
 .cover-button {
-    width: 256px; 
-    height: 51px; 
+    width: 256px;
+    height: 51px;
     font-family: 'Raleway', sans-serif; 
-    font-weight: 500; 
-    font-size: 22px; 
+    font-weight: 500;
+    font-size: 22px;
     text-transform: uppercase;
-    border-width: 1px; 
-    border-color: white; 
-    background-color: transparent; 
+    border-width: 1px;
+    border-color: white;
+    background-color: transparent;
     color: white;
     padding-right: 10px;
 }
@@ -262,7 +262,7 @@ header {
 .card-type-picture {
     background-image: url(../images/card-lot-03.jpg);
 }
-
+z
 .more-link {
     display: block;
     text-align: left;
