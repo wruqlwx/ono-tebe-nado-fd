@@ -12,7 +12,6 @@ header {
     padding: 0;
     margin: 0;
     background-color: white;
-    
 }
 
 .header-menu {
@@ -158,7 +157,7 @@ header {
 
 .cover-description-text {
     width: auto; 
-    font-family: 'Raleway', sans-serif; 
+    font-family: 'Raleway', sans-serif;
     font-weight: 400; 
     font-size: 22px; 
     word-spacing: 18.9px; 
@@ -198,12 +197,11 @@ header {
     display: grid;
     padding-top: 27px;
     list-style-type: none;
-    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 25px;
 }
 
-.lots_card-list-item{
+.lots_card-list-item {
     width: 334px;
     height: 596px;
 }
@@ -263,10 +261,6 @@ header {
 
 .card-type-picture {
     background-image: url(../images/card-lot-03.jpg);
-}
-
-.card-title {
-    z-index: 3;
 }
 
 .more-link {
